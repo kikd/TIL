@@ -11,5 +11,5 @@
 ---  
 
 ## Python
-
+- [Basically data type](#python/BasicType.md)
 ## CSharp
